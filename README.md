@@ -1,1 +1,3 @@
 # .github
+
+Hey everyone!
